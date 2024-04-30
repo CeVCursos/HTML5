@@ -4,4 +4,4 @@ Primeiro curso de HTML5 do Curso em Vídeo. Todas as resoluções dos exercíios
 
 ## Aviso Legal
 
-Todo o conteúdo didático utilizado para a criação deste repositório, é de direito autoral exclusivo de Gustavo Guanabara e do Curso em Vídeo. O único intuito desta organização é apresentar os resultados obtidos através da utilização dos recursos gratuitamente disponíveis em [cursoemvideo.com](cursoemvideo.com).
+Todo o conteúdo didático utilizado para a criação deste repositório, é de direito autoral exclusivo de Gustavo Guanabara e do Curso em Vídeo. O único intuito desta organização é apresentar os resultados obtidos através da utilização dos recursos gratuitamente disponíveis na [Página do curso de HTML5 do Curso em Video](https://www.cursoemvideo.com/curso/html5/).
